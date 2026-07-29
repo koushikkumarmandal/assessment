@@ -1,0 +1,16 @@
+subject,body,category
+Invoice Missing,I have not received my invoice for last month.,Billing
+Payment Failed,Payment failed even after successful transaction.,Billing
+Refund Request,I need a refund for duplicate payment.,Billing
+Unable to Login,I cannot login into my account.,Technical
+Application Crash,The app crashes every time I open it.,Technical
+Website Down,The website is not working today.,Technical
+Reset Password,I forgot my password and cannot access.,Technical
+Leave Application,I want to apply for annual leave.,HR
+Salary Issue,Salary has not been credited yet.,HR
+Joining Documents,Where should I upload onboarding documents?,HR
+Holiday List,Please share the holiday calendar.,HR
+Need Information,I have a general inquiry regarding services.,General
+Account Query,Can someone guide me about account features?,General
+Greetings,Thank you for your support.,General
+Business Hours,What are your working hours?,General
